@@ -1,0 +1,8 @@
+{
+  "DEFAULT_FEE": 1000,
+  "DEFAULT_NETWORK": {
+    "prefix": "cryptixdev",
+    "description": "Devnet",
+    "apiBaseUrl": "https://api.devnet.cryptix-network.org"
+  }
+}
